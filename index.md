@@ -1,12 +1,20 @@
-## Welcome to tommso Pages
+## Welcome to Tommso Pages
 
-You can use the [editor on GitHub](https://github.com/tommso/tommso.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+In the near future I will post my thoughts and projects here. Stay tuned!
 ### About me
+I'm studying math, informatics and technology at the university of Oslo.
+Currently working part time at a beer retail store.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My interests are vast and many but here are some of them:
+Science and research
+Technology
+Politics 
+Workout(kung fu, swimming, running, rowing..)
+Beer enthusiast
+Seasonal gamer (cs-go, dota2..)
+
+
+
 
 ```markdown
 Syntax highlighted code block
