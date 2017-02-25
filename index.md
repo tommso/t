@@ -3,15 +3,16 @@
 In the near future I will post my thoughts and projects here. Stay tuned!
 ### About me
 I'm studying math, informatics and technology at the university of Oslo.
+
 Currently working part time at a beer retail store.
 
 ### My interests are vast and many but here are some of them:
-Science and research
-Technology
-Politics 
-Workout(kung fu, swimming, running, rowing..)
-Beer enthusiast
-Seasonal gamer (cs-go, dota2..)
+- Science and research
+- Technology
+- Politics 
+- Workout(kung fu, swimming, running, rowing..)
+- Beer enthusiast
+- Seasonal gamer (cs-go, dota2..)
 
 
 
