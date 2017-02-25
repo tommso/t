@@ -6,6 +6,7 @@ I'm studying math, informatics and technology at the university of Oslo.
 
 Currently working part time at a beer retail store.
 [Link](url) and ![Image](src)
+
 **Some** **of** **my** **interests:**
 - Science and research
 - Technology
